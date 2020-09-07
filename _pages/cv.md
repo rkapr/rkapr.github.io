@@ -9,23 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Summary
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Detail oriented electrical engineer, with 3+ years of experience in data analysis of bioinformatics datasets in Crop Science with focus on wheat and sorghum. Worked with plant breeders and professionals in Texas A&M AgriLife to identify research problems of interest, creating bioinformatics pipelines to collect, clean and process large publicly available gene expression datasets, and identify and evaluate predictive statistical models from published research for genome wide gene network analysis. The data analysis and resulting hypotheses contributed to three interdisciplinary research proposals to NSF and USDA. 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research experience
+====== 
+Understanding nitrogen transport pathways related to grain protein content in wheat  
+• Understanding gene regulatory pathways that transport nitrogen from senescing leaves to grain with goal of understanding mechanisms affecting grain protein content trait. 
+• Performed WGCNA based gene clustering for seed gene expression data on computing cluster, which discovered multiple MADS box TF as key candidate genes among modules involving amino acid transporters. 
+• Performed gene ontology analysis which identified two modules involved in activating storage molecules including starch, lipids and protein.  
+• Identified UMAMI gene family identified using Interpro search, and used publicly available datasets to create heatmaps and homeolog expression plots for exploratory analysis. 
+• Collected and cleaned publicly available alignment files (CRAM) from multiple SRA projects. using globus command line, extracted reads mapping to these genes using SAMtools, for verifying gene models.  
+• Performed exploratory analysis of UMAMI gene expression in Arabidopsis to verify orthologs and identify phylogenetically conserved expression patterns. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Key achievement: Results formed the basis of an interdisciplinary USDA funding proposal with Soil and Crop Sciences. 
   
 Skills
 ======
