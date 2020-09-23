@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "College Station, TX"
-  employer         :
+  employer         : Texas Engineering Experiment Station, Texas A&M
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "r.kapoor@tamu.edu"
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-4773-7002"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/9440850/rajan-kapoor
+  stackoverflow    : "https://stackoverflow.com/users/9440850/rajan-kapoor"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
