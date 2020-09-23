@@ -13,9 +13,9 @@ Education:
 ======
 PhD, Electrical and Computer Engineering (GPA: 3.82) &nbsp; &nbsp; &nbsp; &nbsp; 2017 – 2021  
 Texas A&M University, College Station  
-MS, Electrical and Computer Engineering (GPA: 3.75) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2015 – 2017  
+MS, Electrical and Computer Engineering (GPA: 3.75) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2015 – 2017  
 Texas A&M University, College Station  
-BTech, Electrical Engineering (GPA: 8.57/10) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2010 – 2014  
+BTech, Electrical Engineering (GPA: 8.57/10) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2010 – 2014  
 Indian Institute of Technology, Patna, India  
 
 Projects:
