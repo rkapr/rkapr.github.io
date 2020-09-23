@@ -9,49 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Summary
+Education:
 ======
-Detail oriented electrical engineer, with 3+ years of experience in data analysis of bioinformatics datasets in Crop Science with focus on wheat and sorghum. Worked with plant breeders and professionals in Texas A&M AgriLife to identify research problems of interest, creating bioinformatics pipelines to collect, clean and process large publicly available gene expression datasets, and identify and evaluate predictive statistical models from published research for genome wide gene network analysis. The data analysis and resulting hypotheses contributed to three interdisciplinary research proposals to NSF and USDA. 
+PhD, Electrical and Computer Engineering (GPA: 3.82)                                                                            2017 – 2021  
+Texas A&M University, College Station  
+MS, Electrical and Computer Engineering (GPA: 3.75)                                                                             2015 – 2017  
+Texas A&M University, College Station  
+BTech, Electrical Engineering (GPA: 8.57/10)                                                                                    2010 – 2014  
+Indian Institute of Technology, Patna, India  
+  
+Skills:
+======
+* R, Python (numpy, pandas, scikit-learn, scipy), Shell scripting, SLURM and LSF batch processing, MATLAB, SQL, Jupyter notebooks, R Notebooks, C/C++.  
+* Visualization: plotly, matplotlib, ggplot2, flexdashboard.   
+* ML models: SVM with kernels, k-means, decision trees, Adaboost, linear/logistic/generalized linear regression and parsimonious model selection (AIC/BIC), lasso, ridge regression, mixture models, stochastic gradient/coordinate descent, random forests, time series analysis (ARMA/ARIMA/ARCH/GARCH), ANOVA. 
+* BLASTing on cluster, bioinformatics tools (HISAT2, featureCounts, SAMtools, BAMtools, DESeq2), phylogenetic analysis, experience using EMBL-EBI and Uniprot REST APIs, globus-cli, GitHub.  
+* Some experience with mixed models, image processing (imutils, cv2), graphical models.  
+  
+Relevant Courses:
+======
+* Engineering/Statistics: Regression Analysis (A), Statistical computing in R & Python (A), Applied Statistics & Data Analysis (B), Pattern Recognition (A), Distribution Theory (A), Information Theory (A).  
+* Biology/Bioinformatics: Bioinformatics (S), Bioinformatics Command Line (A), Metagenomics (A), Differential Gene Expression (A), Genome Assembly (A).  
+* Online Certifications: Introduction to SQL, Learn the Command Line, Algorithms & Data Structures.  
+  
+Publications:
+======
+A Gaussian Mixture-Model Exploiting Pathway Knowledge for Dissecting Cancer Heterogeneity, in IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2018, doi: 10.1109/TCBB.2018.2869813.
 
-Research experience
-====== 
-Understanding nitrogen transport pathways related to grain protein content in wheat  
-• Understanding gene regulatory pathways that transport nitrogen from senescing leaves to grain with goal of understanding mechanisms affecting grain protein content trait. 
-• Performed WGCNA based gene clustering for seed gene expression data on computing cluster, which discovered multiple MADS box TF as key candidate genes among modules involving amino acid transporters. 
-• Performed gene ontology analysis which identified two modules involved in activating storage molecules including starch, lipids and protein.  
-• Identified UMAMI gene family identified using Interpro search, and used publicly available datasets to create heatmaps and homeolog expression plots for exploratory analysis. 
-• Collected and cleaned publicly available alignment files (CRAM) from multiple SRA projects. using globus command line, extracted reads mapping to these genes using SAMtools, for verifying gene models.  
-• Performed exploratory analysis of UMAMI gene expression in Arabidopsis to verify orthologs and identify phylogenetically conserved expression patterns. 
+Honors and Awards:
+======
+* Texas Engineering Experiment Station (TEES) Research Assistantship, Sept 2015-current.  
+* Texas International Student Scholarship, Fall 2015, Spring 2016.  
+* Runner up Best BTech Project Award in Electrical Engineering, 2014.  
+* State of Rajasthan (India) High School Academic Excellence Award, 2009.  
 
-Key achievement: Results formed the basis of an interdisciplinary USDA funding proposal with Soil and Crop Sciences. 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
