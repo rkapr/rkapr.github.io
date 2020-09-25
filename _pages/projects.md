@@ -28,14 +28,14 @@ redirect_from:
 
 
 ## Zeroinfl: Zero Inflated Poisson regression (ZIP) in Python (with Eric Chuu)[Spring 2018]  
-* ZIP regression was use to model a process switching between perfect state with no errors and imperfect one with Poisson distributed errors based on pscl package in R.  
+* •	Modeled a process switching between perfect state with no errors and imperfect one with Poisson distributed errors using ZIP regression based on pscl (R) and statsmodels (python) packages.   
 * The algorithm provided better fit to model systemic departure from Poisson regression than generalized linear regression model (GLM) (quasi-Poisson, negative binomial) and generalized linear mixed models.  
 * Implemented logit, probit, complementary log log, Cauchy and log link functions for GLM fit using object-oriented programming.  
 * Wrote functions for likelihood, log-likelihood, gradient and max likelihood estimation using BFGS optimization, with expectation maximization-based initialization.  
 * Wrote functions summary for pretty-printing results including p-value, standard error, z-statistics and predict for using fitted model for prediction.  
 * The functionality was extended to include zero inflated negative binomial and zero inflated geometric regressions.  
 
-**Key achievement: First open source contribution to provide zero inflated regression functionality in python.**   
+**Key achievement: Provided fully functional zero inflated regression functionality in Python.**   
 
 
 ## Adaboost based face detection using Voila Jones framework [Fall 2019]
